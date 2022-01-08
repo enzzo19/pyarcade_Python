@@ -1,0 +1,21 @@
+# Page to download sprites
+
+https://elandroidefeliz.com/lista-top-10-los-mejores-sprites-gratuitos/
+
+# Tutorial
+
+https://api.arcade.academy/en/latest/examples/platform_tutorial/step_02.html
+
+# Code_Example
+
+https://github.com/pythonarcade/arcade/tree/development/arcade/examples/platform_tutorial
+
+# Arcade Book
+
+https://learn.arcade.academy/en/latest/chapters/index.html
+
+
+# Tiled Map Editor
+
+https://www.mapeditor.org/
+
